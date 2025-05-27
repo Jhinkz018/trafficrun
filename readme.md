@@ -13,8 +13,7 @@ A 3D endless runner game where you control a car navigating through traffic, bui
 
 ## Screenshots
 
-<!-- Add screenshots here if available -->
-![Gameplay Screenshot](./screenshots/gameplay.png)
+![Gameplay Screenshot](./image.png)
 
 ## Getting Started
 
